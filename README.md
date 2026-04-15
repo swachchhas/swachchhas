@@ -25,7 +25,7 @@
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/swachchhashrestha)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Figma-purple)](https://www.figma.com/proto/FSUgXEj4vnjf72L4IsFML6/Protfolio_Swachchha)
+[![[Portfolio](https://img.shields.io/badge/Portfolio-Figma-purple)](https://www.figma.com/proto/FSUgXEj4vnjf72L4IsFML6/Protfolio_Swachchha)](https://www.figma.com/proto/FSUgXEj4vnjf72L4IsFML6/Protfolio_Swachchha?node-id=5-20&t=d01W34fUi6PaQyYS-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=150%3A69)
 
 ---
 
