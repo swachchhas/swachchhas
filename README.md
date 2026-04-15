@@ -25,9 +25,7 @@
 
 ---
 
-## 📄 My CV & Portfolio
-
-📥 **[Download My CV](https://github.com/swachchhas/swachchhas/raw/main/Swachchha_Shrestha_CV.docx)**
+## 📄  Portfolio
 
 🌐 **[View My Portfolio](https://www.figma.com/proto/FSUgXEj4vnjf72L4IsFML6/Protfolio_Swachchha?node-id=5-20&t=lj98lTA9hg1Hjma0-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=150%3A69)**
 
