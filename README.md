@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Swachchha! 👋
 
-<!--
-**swachchhas/swachchhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BSIT Student** at King's College (Westcliff University)
+📊 **Aspiring Data Scientist** with interest in stock market analytics
+🌱 Currently learning **Python, SQL, Pandas, NumPy**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+![Python](https://img.shields.io/badge/Python-Learning-blue)
+![SQL](https://img.shields.io/badge/SQL-Foundational-green)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-Intermediate-orange)
+
+---
+
+## 📂 My Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Interview AI](https://github.com/swachchhas/interviewai) | AI-powered interview preparation app | Python, Flask |
+| [Equation Solver](https://github.com/swachchhas/EQUATIONSOLVER) | Solves linear & quadratic equations | Python |
+| [Budget Tracker](https://github.com/swachchhas/Monthly-Budget-Tracker) | Personal finance tracking web app | HTML, CSS, JS |
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/swachchhashrestha)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Figma-purple)](https://www.figma.com/proto/FSUgXEj4vnjf72L4IsFML6/Protfolio_Swachchha)
+
+---
+
+⭐ *Open to internship opportunities in Data Science & Software Development!*
