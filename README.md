@@ -38,4 +38,3 @@
 
 ---
 
-⭐ *Open to internship opportunities in Data Science & Software Development!*
